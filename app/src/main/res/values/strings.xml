@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ResultApiSample</string>
+    <string name="title_activity_second">Second Activity</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="result_label">Result TEXT</string>
+
+    <string name="old_start">startActivityForResult()</string>
+    <string name="new_start">registerForActivityResult()</string>
+    <string name="old_fragment">use interface</string>
+    <string name="new_fragment">setFragmentResult()</string>
+
+    <string name="set_result">setResult()</string>
+
+</resources>
